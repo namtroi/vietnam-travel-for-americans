@@ -28,20 +28,20 @@
 **Reddit verdict:** “Vietnam food > Thailand food” wins every 2025 poll (62 % vs 38 %).
 **Hall-of-fame dishes (exact locations from Nov threads):**
 
-- **Phở Thìn Lò Đúc** (Hanoi) – “best $2.50 bowl on earth” – [u/phoaddict2025](https://www.reddit.com/user/phoaddict2025/), [5.1k upvotes](https://www.reddit.com/r/VietnamTourism/).
+- **Phở Thìn Lò Đúc** (Hanoi).
 - **Bún chả Hương Liên** (Obama spot) – still $3.
 - **Cà phê trứng** at **Giang Café Hidden** (enter alley, climb 3 floors).
-- **Bánh mì Phượng** (Hoi An) – “I cried. Actually cried.” – [u/banhmi_girl](https://www.reddit.com/user/banhmi_girl/), Oct 2025.
+- **Bánh mì Phượng** (Hoi An).
 - **Cao lầu Madam Khanh** (Hoi An) – secret hole-in-wall #43.
-  **Source:** [r/VietnamTourism “Food Bible 2025”](https://www.reddit.com/r/VietnamTourism/) – 12k saves, updated weekly.
+  **Source:** [r/VietnamTourism “Food Bible 2025”](https://www.reddit.com/r/VietnamTourism/).
 
 ### 2. Nature That Looks Photoshopped in Real Life
 
 **2025 bucket-list winners:**
 
-- **Lan Ha Bay** over Halong – “same limestone, 70 % fewer boats” – [u/halongbaytruth](https://www.reddit.com/user/halongbaytruth/), [4.2k upvotes](https://www.reddit.com/r/VietnamTourism/).
-- **Hang Múa sunrise** (Ninh Binh) – “Avatar mountains but real” – 3.9k photos shared.
-- **Phong Nha caves** – “I paid $300 for a 3-day jungle cave expedition and it was the best money ever” – [u/cavejunkie_VN](https://www.reddit.com/user/cavejunkie_VN/).
+- **Lan Ha Bay** over Halong.
+- **Hang Múa sunrise** (Ninh Binh).
+- **Phong Nha caves**.
 - **An Bàng Beach sunrise** (Hoi An) – voted cleanest beach in Vietnam 2025.
   **Tip:** Visit Ninh Binh on weekdays – weekends = Chinese tour bus hell.
   **Source:** [r/travel “Most beautiful places in SE Asia 2025”](https://www.reddit.com/r/travel/) – Vietnam took 4/10 spots.
@@ -55,14 +55,14 @@
 - Domestic flights: Hanoi → Da Nang $38, Saigon → Phu Quoc $29 (book Tuesday 3 PM ICT = lowest price).
   **Money hacks:**
 - Stay in **An Bang** (Hoi An) or **My An** (Da Nang) – same quality as Old Town but half price.
-  **Source:** [r/digitalnomad “Vietnam 2025 cost mega-thread”](https://www.reddit.com/r/digitalnomad/) – 8.7k comments.
+  **Source:** [r/digitalnomad “Vietnam 2025 cost mega-thread”](https://www.reddit.com/r/digitalnomad/).
 
 ### 4. Friendliest People (When You Leave Tourist Zones)
 
 **Magic phrase:** “Em chào anh/chị ạ” + smile → instant family invitation.
 **Best connections 2025:**
 
-- Homestays in **Pu Luong** or **Ninh Binh rice fields** – “Grandma taught me to cook for 4 hours for free” – [u/familyvibes_VN](https://www.reddit.com/user/familyvibes_VN/).
+- Homestays in **Pu Luong** or **Ninh Binh rice fields**.
 - **Hoi An basket boat uncles** – tip 200k VND → free coconut and life stories.
 - **Saigon rooftop bars** – locals buy YOU drinks when they hear it’s your first time.
   **Source:** [r/solotravel “Friendliest country 2025 poll”](https://www.reddit.com/r/solotravel/) – Vietnam beat Philippines by 3 %.
@@ -97,7 +97,7 @@
 - Take airport taxis – open Grab/Gojek app **before** exiting arrivals.
 - Always ask “How much?” + screenshot menu prices.
 - Pay cruise deposits via PayPal, never cash upfront.
-  **Source:** [r/VietnamTourism “Scams Mega-thread 2025”](https://www.reddit.com/r/VietnamTourism/) – 4.8k upvotes, [u/scamhunter_VN](https://www.reddit.com/user/scamhunter_VN/) daily updates.
+  **Source:** [r/VietnamTourism “Scams Mega-thread 2025”](https://www.reddit.com/r/VietnamTourism/).
 
 ### 2. Traffic Chaos & Phone Snatching
 
@@ -110,7 +110,6 @@
 - Phone in **front pocket + zipper** or **chest harness** (Amazon $12).
 - No backpacks on scooters – use Grab car instead.
 - Night rule: After 11 PM in HCMC, only use **Grab car**, never bike.
-  **Reddit quote:** “Lost my iPhone 16 in 0.8 seconds on Bùi Viện street – gone forever.” – [u/robbedinsaigon](https://www.reddit.com/user/robbedinsaigon/), Oct 2025, [3.2k upvotes](https://www.reddit.com/r/VietnamTourism/).
 
 ### 3. Rude Locals & “Money First” Attitude
 
@@ -123,7 +122,7 @@
 - Smile + say “Hello sister/brother” → 70 % turn friendly instantly.
 - Avoid peak haggling hours (11 AM–2 PM).
 - Best defense: Walk away – they’ll chase with real price.
-  **Source:** [r/travel “Why do some Vietnamese hate tourists 2025?”](https://www.reddit.com/r/travel/) – 2.9k comments.
+  **Source:** [r/travel “Why do some Vietnamese hate tourists 2025?”](https://www.reddit.com/r/travel/).
 
 ### 4. Visa & Immigration Nightmares
 
@@ -135,13 +134,11 @@
 - Apply exactly 12 days before flight at **[evisa.xuatnhapcanh.gov.vn](https://evisa.xuatnhapcanh.gov.vn/trang-chu-ttdt)** ($25).
 - Upload **round-trip ticket + first 3 nights hotel booking** (Booking.com free cancel OK).
 - Arrive 3+ hours early – Tan Son Nhat immigration now scans fingerprints + facial recognition.
-  **Source:** [r/Vietnam “Visa denied mega-thread Nov 2025”](https://www.reddit.com/r/Vietnam/) – 1.1k comments.
+  **Source:** [r/Vietnam “Visa denied mega-thread Nov 2025”](https://www.reddit.com/r/Vietnam/).
 
 ### 5. Pollution & Trash Shock
 
 **Worst in 2025:** Hanoi winter smog (AQI 180+), HCMC canal plastic, Halong Bay floating trash.
-
-**Reddit:** “First time I cried seeing trash in Halong – still went back for Lan Ha.” – [u/ecowarrior_VN](https://www.reddit.com/user/ecowarrior_VN/), [2.4k upvotes](https://www.reddit.com/r/VietnamTourism/).
 
 ## Option 1: 1 Week in Northern Vietnam – Perfect First-Timer Short Trip
 
@@ -162,7 +159,7 @@
   - **Beer Street (Ta Hien)** – $0.30 bia hoi + street food.
   - **Phở Thìn Lò Đúc** or **Phở Gia Truyền Bát Đàn** (best pho in town).
   - Night market + **egg coffee** at **Giang Café** (hidden alley).
-- **Reddit tip:** “Spend at least 2 full days in Hanoi – it’s the soul of Vietnam.” – [u/vietnamtravelmods](https://www.reddit.com/user/vietnamtravelmods/), [2024 mega-thread](https://www.reddit.com/r/VietnamTourism/).
+- **Reddit tip:** “Spend at least 2 full days in Hanoi – it’s the soul of Vietnam.”.
 
 ### Day 3–4: Halong Bay / Lan Ha Bay – UNESCO Overnight Cruise
 
@@ -173,7 +170,7 @@
   - Budget: **Starry Night Cruise (Lan Ha)** ($100–130 pp) – less crowded than Halong.
 - **Itinerary:** Day 1 kayak → Sung Sot Cave → sunset party. Day 2 Tai Chi → Titop Island → back to Hanoi by 4 PM.
 - **Booking:** Use **[BestPrice Travel](https://www.bestpricevn.com/)** or **[HalongBayCruises.com](https://www.halongbaycruises.com/)** – Reddit users saved 30 % vs Viator.
-- **Reddit quote:** “Lan Ha > Halong now. Fewer boats, same limestone porn.” – [u/throwawaytravel1234](https://www.reddit.com/user/throwawaytravel1234/), Jan 2025.
+- **Reddit quote:** “Lan Ha > Halong now. Fewer boats, same limestone porn.”
 
 ### Day 5–6: Ninh Binh – “Halong Bay on Land”
 
@@ -189,7 +186,7 @@
   - **Bich Dong Pagoda** + **Bai Dinh Pagoda** (biggest in SE Asia).
   - Rent scooter ($6/day) to explore rice fields at sunset.
 - **Food:** **Cơm cháy** (crispy rice) + **de núi** (goat meat) at local spots.
-- **Reddit tip:** “Ninh Binh is the hidden gem everyone skips – DO NOT SKIP.” – [u/backpacker_girl88](https://www.reddit.com/user/backpacker_girl88/), 2025.
+- **Reddit tip:** “Ninh Binh is the hidden gem everyone skips – DO NOT SKIP.”
 
 ### Day 7: Back to Hanoi + Departure
 
@@ -203,8 +200,8 @@
 | :-------------------------- | :------- | :-------- | :------------------------------------------------------------------------ |
 | Accommodation (6 nights)    | $140     | $300      | [r/VietnamTourism 2025 threads](https://www.reddit.com/r/VietnamTourism/) |
 | Halong Cruise (2D1N all-in) | $120     | $200      | [r/travel Oct 2025 mega-thread](https://www.reddit.com/r/travel/)         |
-| Transport (Grab + vans)     | $60      | $80       | [u/nomadlife_2025](https://www.reddit.com/user/nomadlife_2025/)           |
-| Food & drinks               | $100     | $150      | “$15/day is plenty” – [u/foodieVN](https://www.reddit.com/user/foodieVN/) |
+| Transport (Grab + vans)     | $60      | $80       |                                                                           |
+| Food & drinks               | $100     | $150      |                                                                           |
 | Activities & entrance fees  | $80      | $120      | [12Go](https://12go.asia/) + Klook reviews                                |
 | **TOTAL**                   | **$550** | **$850**  |                                                                           |
 
@@ -225,7 +222,7 @@
   - Day 1: Hoan Kiem Lake → **St Joseph Cathedral** → **Train Street 2.0** (new location after ban).
   - Day 2: **Ho Chi Minh Mausoleum** (closed Mon/Fri), **One Pillar Pagoda**, **Temple of Literature**, **Hoa Lo Prison**.
   - Day 3: **West Lake sunset**, **Lotus flower tea** at Quảng Bá, **Bún chả Obama** (Hương Liên).
-- **Reddit quote:** “3 days in Hanoi is the sweet spot – any less and you’ll regret.” – [u/vietnam2025traveler](https://www.reddit.com/user/vietnam2025traveler/), [2.1k upvotes mega-thread](https://www.reddit.com/r/VietnamTourism/).
+- **Reddit quote:** “3 days in Hanoi is the sweet spot – any less and you’ll regret.”
 
 ### Day 4–5: Halong Bay / Lan Ha Bay – 2D1N Overnight Cruise
 
@@ -234,7 +231,7 @@
   - **Orchid Trendy** ($180–240 pp) – best food on water.
   - **Capella Lan Ha** ($150–200 pp) – quieter bay, same views.
 - **Booking hack:** Book directly via cruise website + code “REDDIT2025” for 15 % off (still working Nov 2025).
-- **Reddit tip:** “Do Lan Ha, not Halong – zero traffic jams of boats.” – [u/halongbayhater](https://www.reddit.com/user/halongbayhater/), [1.4k upvotes](https://www.reddit.com/r/VietnamTourism/).
+- **Reddit tip:** “Do Lan Ha, not Halong – zero traffic jams of boats.”.
 
 ### Day 6–7: Ninh Binh – Double the Magic, Zero Rush
 
@@ -243,7 +240,7 @@
   - **Tam Coc Rice Fields Resort** ($55–85) – infinity pool views.
 - **Day 6:** **Trang An boat tour** (Route 1, less crowded) + **Hang Múa** sunset.
 - **Day 7:** **Tam Coc morning boat** → **Bich Dong Pagoda** → scooter loop to **Tuyet Tinh Coc** (Am Tien Cave).
-- **Food:** **Cháo hành** (scallion porridge) at roadside stalls – “best $1 meal ever” – [u/ninhbinhlove](https://www.reddit.com/user/ninhbinhlove/), 2025.
+- **Food:** **Cháo hành** (scallion porridge) at roadside stalls – “best $1 meal ever”.
 
 ### Day 8–9: Hue – Imperial City & Royal Vibes
 
@@ -256,7 +253,7 @@
   - **Khải Định Tomb** (most beautiful tomb).
   - **Perfume River dragon boat** at sunset ($12 pp).
   - **Bún bò Huế** at **Huyền Anh** – Reddit’s #1 spot.
-- **Reddit 2025:** “Hue is underrated AF – don’t just day-trip.” – [u/historynerd_VN](https://www.reddit.com/user/historynerd_VN/), [900 comments](https://www.reddit.com/r/VietnamTourism/).
+- **Reddit 2025:** “Hue is underrated AF – don’t just day-trip.”.
 
 ### Day 10–12: Hoi An – 3 Nights of Lanterns & Tailors
 
@@ -269,7 +266,7 @@
   - Day 11: **An Bang Beach** all day + **basket boat** in coconut forest.
   - Day 12: **Cooking class** at **Red Bridge** or bike to **Tra Que vegetable village**.
 - **Food:** **Cao lầu** at **Morning Glory**, **white rose dumplings** at **White Rose Restaurant**.
-- **Reddit:** “3 nights minimum – 2 nights is criminal.” – [r/VietnamTourism 2025 poll](https://www.reddit.com/r/VietnamTourism/) (78 % voted 3+ nights).
+- **Reddit:** “3 nights minimum – 2 nights is criminal.”
 
 ### Day 13–14: Da Nang – Modern Finish + Departure
 
@@ -283,27 +280,15 @@
 
 ### Budget Breakdown (per person, Nov 2025)
 
-| Item                       | Low-End  | Mid-Range  | Reddit Source                                                                                                       |
-| :------------------------- | :------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
-| Accommodation (13 nights)  | $280     | $650       | [r/VietnamTourism Nov 2025](https://www.reddit.com/r/VietnamTourism/)                                               |
-| Halong Cruise (2D1N)       | $150     | $250       | [r/Cruise “Vietnam 2025” thread](https://www.reddit.com/r/Cruise/)                                                  |
-| Domestic flights (2 legs)  | $100     | $160       | [Skyscanner](https://www.skyscanner.com/) + [u/budgettraveler2025](https://www.reddit.com/user/budgettraveler2025/) |
-| Transport (Grab/van/car)   | $120     | $180       | [12Go.asia reviews](https://12go.asia/)                                                                             |
-| Food & drinks              | $180     | $250       | “$15-20/day is realistic” – [u/foodVN](https://www.reddit.com/user/foodVN/)                                         |
-| Activities & entrance fees | $150     | $250       | Klook + Reddit group trips                                                                                          |
-| **TOTAL**                  | **$980** | **$1,540** |                                                                                                                     |
-
-### Budget Breakdown (per person, Nov 2025)
-
-| Item                       | Low-End  | Mid-Range  | Reddit Source                        |
-| -------------------------- | -------- | ---------- | ------------------------------------ |
-| Accommodation (13 nights)  | $280     | $650       | r/VietnamTourism Nov 2025            |
-| Halong Cruise (2D1N)       | $150     | $250       | r/Cruise “Vietnam 2025” thread       |
-| Domestic flights (2 legs)  | $100     | $160       | Skyscanner + u/budgettraveler2025    |
-| Transport (Grab/van/car)   | $120     | $180       | 12Go.asia reviews                    |
-| Food & drinks              | $180     | $250       | “$15-20/day is realistic” – u/foodVN |
-| Activities & entrance fees | $150     | $250       | Klook + Reddit group trips           |
-| **TOTAL**                  | **$980** | **$1,540** |                                      |
+| Item                       | Low-End  | Mid-Range  | Reddit Source                                                         |
+| :------------------------- | :------- | :--------- | :-------------------------------------------------------------------- |
+| Accommodation (13 nights)  | $280     | $650       | [r/VietnamTourism Nov 2025](https://www.reddit.com/r/VietnamTourism/) |
+| Halong Cruise (2D1N)       | $150     | $250       | [r/Cruise “Vietnam 2025” thread](https://www.reddit.com/r/Cruise/)    |
+| Domestic flights (2 legs)  | $100     | $160       | [Skyscanner](https://www.skyscanner.com/)                             |
+| Transport (Grab/van/car)   | $120     | $180       | [12Go.asia reviews](https://12go.asia/)                               |
+| Food & drinks              | $180     | $250       |                                                                       |
+| Activities & entrance fees | $150     | $250       | Klook + Reddit group trips                                            |
+| **TOTAL**                  | **$980** | **$1,540** |                                                                       |
 
 ## Option 3: 1 Month Full Vietnam – North to South Epic Journey
 
@@ -325,7 +310,6 @@
   - Day 4: **Day trip to Perfume Pagoda** (boat + cable car, $35 pp).
   - Day 5: **West Lake walk**, **Trúc Bạch island**, **Quan Thanh Temple**, craft beer crawl.
   - Day 6: **Cooking class** (Hanoi Cooking Centre) + free afternoon street food hunt.
-- **Reddit 2025:** “6 days in Hanoi was my favorite part of 1-month trip.” – [u/vietnamfor30days](https://www.reddit.com/user/vietnamfor30days/), [3.9k upvotes](https://www.reddit.com/r/VietnamTourism/).
 
 ### Day 7–9: Halong Bay → Ninh Binh (3D2N combo)
 
@@ -338,7 +322,6 @@
 
 - **Day 10:** **Tam Coc morning boat** → **Tuyet Tinh Coc** → scooter to **Cuc Phuong National Park** (monkey rescue center).
 - **Day 11:** **Bai Dinh Pagoda** + **Phat Diem Cathedral** (stone church masterpiece).
-- **Reddit tip:** “4 nights total in Ninh Binh area is perfect for 1-month trip.” – [r/VietnamTourism Nov 2025 poll](https://www.reddit.com/r/VietnamTourism/).
 
 ### Day 12–15: Hue → Da Nang (4 nights Central Vietnam kickoff)
 
@@ -362,7 +345,6 @@
   - Day 18: **Cooking class** + **Tra Que vegetable village** bike tour.
   - Day 19: **My Son Sanctuary** half-day ($35 pp).
   - Day 20: Free day – beach, shopping, or **reach out to locals via Reddit meetup**.
-- **Reddit 2025:** “5 nights in Hoi An is the new minimum for 1-month trips.” – [u/hoianforever](https://www.reddit.com/user/hoianforever/), [4.2k upvotes](https://www.reddit.com/r/VietnamTourism/).
 
 ### Day 21–22: Nha Trang – Beach & Island Hopping
 
@@ -379,7 +361,7 @@
 - **Must-do:**
   - Day 23: **War Remnants Museum**, **Reunification Palace**, **Notre Dame**.
   - Day 24: **Cu Chi Tunnels** half-day + city walking tour.
-  - Day 25: **District 4 street food tour** (book via [r/saigon](https://www.reddit.com/r/saigon/)).
+  - Day 25: **District 4 street food tour**.
   - Day 26: **Bitexco Tower sunset**, **Nguyen Hue walking street**.
   - Day 27: Free day or **Can Gio Mangrove day trip**.
 
@@ -395,27 +377,15 @@
 
 ### Budget Breakdown (per person, Nov 2025)
 
-| Item                      | Low-End    | Mid-High   | Reddit Source 2025                                                                                              |
-| :------------------------ | :--------- | :--------- | :-------------------------------------------------------------------------------------------------------------- |
-| Accommodation (29 nights) | $650       | $1,600     | [r/VietnamTourism “1-month stays”](https://www.reddit.com/r/VietnamTourism/)                                    |
-| Domestic flights (5 legs) | $280       | $420       | [Skyscanner](https://www.skyscanner.com/) + [u/budgetflights_VN](https://www.reddit.com/user/budgetflights_VN/) |
-| Halong Cruise (2D1N)      | $180       | $280       | [r/Cruise Nov 2025](https://www.reddit.com/r/Cruise/)                                                           |
-| Trains & long-haul buses  | $120       | $180       | [12Go.asia](https://12go.asia/) + overnight train reviews                                                       |
-| Food & drinks (30 days)   | $350       | $550       | “$15-20/day easy” – [u/foodie30days](https://www.reddit.com/user/foodie30days/)                                 |
-| Activities & tours        | $350       | $650       | Klook bundles + Reddit group deals                                                                              |
-| **TOTAL**                 | **$1,930** | **$3,680** | _Real average from 2025 recaps: $2,400_                                                                         |
-
-### Budget Breakdown (per person, Nov 2025)
-
-| Item                      | Low-End    | Mid-High   | Reddit Source 2025                      |
-| ------------------------- | ---------- | ---------- | --------------------------------------- |
-| Accommodation (29 nights) | $650       | $1,600     | r/VietnamTourism “1-month stays”        |
-| Domestic flights (5 legs) | $280       | $420       | Skyscanner + u/budgetflights_VN         |
-| Halong Cruise (2D1N)      | $180       | $280       | r/Cruise Nov 2025                       |
-| Trains & long-haul buses  | $120       | $180       | 12Go.asia + overnight train reviews     |
-| Food & drinks (30 days)   | $350       | $550       | “$15-20/day easy” – u/foodie30days      |
-| Activities & tours        | $350       | $650       | Klook bundles + Reddit group deals      |
-| **TOTAL**                 | **$1,930** | **$3,680** | _Real average from 2025 recaps: $2,400_ |
+| Item                      | Low-End    | Mid-High   | Reddit Source 2025                                                           |
+| :------------------------ | :--------- | :--------- | :--------------------------------------------------------------------------- |
+| Accommodation (29 nights) | $650       | $1,600     | [r/VietnamTourism “1-month stays”](https://www.reddit.com/r/VietnamTourism/) |
+| Domestic flights (5 legs) | $280       | $420       | [Skyscanner](https://www.skyscanner.com/)                                    |
+| Halong Cruise (2D1N)      | $180       | $280       | [r/Cruise Nov 2025](https://www.reddit.com/r/Cruise/)                        |
+| Trains & long-haul buses  | $120       | $180       | [12Go.asia](https://12go.asia/) + overnight train reviews                    |
+| Food & drinks (30 days)   | $350       | $550       |                                                                              |
+| Activities & tours        | $350       | $650       | Klook bundles + Reddit group deals                                           |
+| **TOTAL**                 | **$1,930** | **$3,680** | _Real average from 2025 recaps: $2,400_                                      |
 
 ## Thanks & Feedback
 
