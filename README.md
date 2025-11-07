@@ -24,6 +24,7 @@
 ### 1. Food That Ruins All Other Countries Forever
 
 **Reddit verdict:** “Vietnam food > Thailand food” wins every 2025 poll (62 % vs 38 %).
+
 **Hall-of-fame dishes (exact locations from Nov threads):**
 
 - **Phở Thìn Lò Đúc** (Hanoi).
@@ -58,6 +59,7 @@
 ### 4. Friendliest People (When You Leave Tourist Zones)
 
 **Magic phrase:** “Em chào anh/chị ạ” + smile → instant family invitation.
+
 **Best connections 2025:**
 
 - Homestays in **Pu Luong** or **Ninh Binh rice fields**.
@@ -81,7 +83,9 @@
 ### 1. Scams & Overcharging – “You are a walking ATM”
 
 **Reddit reality:** 68 % of 2025 posts mention getting ripped off in the first 48 hours.
+
 **Hot spots:** Hanoi Old Quarter, Hoi An tailors, Saigon District 1, Halong Bay dock.
+
 **Real examples (Nov 2025):**
 
 - Taxi from Noi Bai Airport quoting $80 → real Grab price $14.
@@ -98,6 +102,7 @@
 ### 2. Traffic Chaos & Phone Snatching
 
 **2025 stats:** 1,200+ snatch thefts reported on Reddit, 85 % in HCMC (District 1, Pham Ngu Lao).
+
 **Northern Vietnam:** Almost zero incidents in Hanoi/Ninh Binh/Halong.
 
 **Life-saving rules:**
@@ -123,6 +128,7 @@
 ### 4. Visa & Immigration Nightmares
 
 **Nov 2025 update:** E-visa approval dropped to 89 % (was 99 % in 2024).
+
 **Common rejections:** US passport with Israel/Syria stamps, missing hotel booking proof.
 
 **Bulletproof method:**
