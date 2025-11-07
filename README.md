@@ -21,8 +21,6 @@
 
 ## Top 5 Reasons to Visit Vietnam in 2025 – Why Reddit Can’t Stop Raving
 
-**~540 words | Nov 06, 2025 | Curated from 42k+ Reddit comments across [r/travel](https://www.reddit.com/r/travel/), [r/VietnamTourism](https://www.reddit.com/r/VietnamTourism/), [r/solotravel](https://www.reddit.com/r/solotravel/)**
-
 ### 1. Food That Ruins All Other Countries Forever
 
 **Reddit verdict:** “Vietnam food > Thailand food” wins every 2025 poll (62 % vs 38 %).
@@ -79,8 +77,6 @@
   **Reddit quote:** “I did 28 days North to South in Oct 2025 and still feel I missed half the country. Already booked again for 2026.” – [u/vietnam4life](https://www.reddit.com/user/vietnam4life/), [6.8k upvotes recap post](https://www.reddit.com/r/VietnamTourism/).
 
 ## Top 5 Biggest Problems for Foreign Tourists in Vietnam – Reddit 2025 Survival Guide
-
-**~520 words | Updated Nov 06, 2025 | Sources: [r/VietnamTourism](https://www.reddit.com/r/VietnamTourism/), [r/travel](https://www.reddit.com/r/travel/), [r/scams](https://www.reddit.com/r/scams/) mega-threads**
 
 ### 1. Scams & Overcharging – “You are a walking ATM”
 
@@ -143,7 +139,9 @@
 ## Option 1: 1 Week in Northern Vietnam – Perfect First-Timer Short Trip
 
 **Ideal for: Americans who want the “Vietnam highlight reel” without exhaustion**
+
 **Focus:** Hanoi culture → Halong Bay magic → Ninh Binh “Inland Halong”
+
 **Total estimated cost (2025 prices):** $550–850 USD/person (excluding international flights)
 
 ### Day 1–2: Hanoi – Dive into the Chaos & Charm
@@ -208,8 +206,9 @@
 ## Option 2: 2 Weeks in Northern & Central Vietnam – The Perfect Balance of Culture, History & Beach
 
 **Ideal for: First-time Americans wanting the “real Vietnam” without rushing**
+
 **Focus:** Hanoi buzz → Halong magic → Ninh Binh serenity → Hue imperial → Hoi An romance → Da Nang modern vibes
-**No Sapa** (as requested) – replaced Day 6-7 with full Ninh Binh immersion
+
 **Total estimated cost (Nov 2025 prices):** $850–1,550 USD/person (excluding international flights)
 
 ### Day 1–3: Hanoi – 3 Full Days to Fall in Love
@@ -293,8 +292,9 @@
 ## Option 3: 1 Month Full Vietnam – North to South Epic Journey
 
 **Ideal for: First-time Americans + friends who want the COMPLETE Vietnam experience**
+
 **Focus:** Culture → Nature → History → Beach → City → River Life → Island Paradise
-**Sapa removed** → Extra days redistributed to Hanoi, Central Vietnam & Mekong for deeper immersion
+
 **Total estimated cost (Nov 2025 prices):** $1,650–3,200 USD/person (excluding international flights)
 
 ### Day 1–6: Hanoi – 6 Full Days (Extra time = real local life)
