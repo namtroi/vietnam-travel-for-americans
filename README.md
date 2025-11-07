@@ -7,7 +7,7 @@
 - Vietnamese here. Lived in Halong, Hanoi, and HCMC for years.
 - I hate sugarcoated travel blogs that hide the chaos.
 - This pack gives **full picture**: insane beauty + real headaches.
-- So your friend gets zero culture shock, max enjoyment, and actually wants to come back.
+- So you and your friend gets zero culture shock, max enjoyment, and actually wants to come back.
 
 ## How I Built It?
 
