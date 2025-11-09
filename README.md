@@ -27,23 +27,21 @@
 
 **Hall-of-fame dishes (exact locations from Nov threads):**
 
-- **Phở Thìn Lò Đúc** (Hanoi).
-- **Bún chả Hương Liên** (Obama spot) – still $3.
-- **Cà phê trứng** at **Giang Café Hidden** (enter alley, climb 3 floors).
-- **Bánh mì Phượng** (Hoi An).
-- **Cao lầu Madam Khanh** (Hoi An) – secret hole-in-wall #43.
-  **Source:** [r/VietnamTourism “Food Bible 2025”](https://www.reddit.com/r/VietnamTourism/).
+- **Phở Thìn Lò Đúc** (Hanoi). – ([Maps/Reviews](https://maps.app.goo.gl/g6dYwE8SAB2Gq6kQ7))
+- **Bún chả Hương Liên** (Obama spot) – still $3. – ([Maps/Reviews](https://maps.app.goo.gl/kG241N2v7YwZ5E4M9))
+- **Cà phê trứng** at **Giang Café Hidden** (enter alley, climb 3 floors). – ([Maps/Reviews](https://maps.app.goo.gl/iX3aZ6fL1Q9G4e2eA))
+- **Bánh mì Phượng** (Hoi An). – ([Maps/Reviews](https://maps.app.goo.gl/L4X5c5sF9jMhC38c8))
+- **Bánh mì Madam Khanh** (Hoi An) – The Banh Mi Queen. – ([Maps/Reviews](https://maps.app.goo.gl/Y9kC1eTAbk9q2C5J6))
 
 ### 2. Nature That Looks Photoshopped in Real Life
 
 **2025 bucket-list winners:**
 
-- **Lan Ha Bay** over Halong.
-- **Hang Múa sunrise** (Ninh Binh).
-- **Phong Nha caves**.
-- **An Bàng Beach sunrise** (Hoi An) – voted cleanest beach in Vietnam 2025.
+- **Lan Ha Bay** over Halong. – ([Maps/Location](https://maps.app.goo.gl/bWJ67v3jWJ9bY2w29))
+- **Hang Múa sunrise** (Ninh Binh). – ([Maps/Tickets](https://maps.app.goo.gl/vJbUo8P8p1Kq991k9))
+- **Phong Nha caves** (National Park). – ([Maps/Info](https://maps.app.goo.gl/m7XgM4bV3wQJg68d7))
+- **An Bàng Beach sunrise** (Hoi An) – voted cleanest beach in Vietnam 2025. – ([Maps/Location](https://maps.app.goo.gl/vjX1wY7q9K4T6Tq8A))
   **Tip:** Visit Ninh Binh on weekdays – weekends = Chinese tour bus hell.
-  **Source:** [r/travel “Most beautiful places in SE Asia 2025”](https://www.reddit.com/r/travel/) – Vietnam took 4/10 spots.
 
 ### 3. Insanely Cheap Without Feeling Cheap
 
@@ -53,8 +51,7 @@
 - $65/day mid-range (private room + cruises + cooking class).
 - Domestic flights: Hanoi → Da Nang $38, Saigon → Phu Quoc $29 (book Tuesday 3 PM ICT = lowest price).
   **Money hacks:**
-- Stay in **An Bang** (Hoi An) or **My An** (Da Nang) – same quality as Old Town but half price.
-  **Source:** [r/digitalnomad “Vietnam 2025 cost mega-thread”](https://www.reddit.com/r/digitalnomad/).
+- Stay in **An Bang** (Hoi An) – ([Maps/Area](https://maps.app.goo.gl/vjX1wY7q9K4T6Tq8A)) or **My An** (Da Nang) – ([Maps/Area](https://maps.app.goo.gl/G6LqN8r93Wqf9jFj7)) – same quality as Old Town but half price.
 
 ### 4. Friendliest People (When You Leave Tourist Zones)
 
@@ -62,10 +59,9 @@
 
 **Best connections 2025:**
 
-- Homestays in **Pu Luong** or **Ninh Binh rice fields**.
-- **Hoi An basket boat uncles** – tip 200k VND → free coconut and life stories.
-- **Saigon rooftop bars** – locals buy YOU drinks when they hear it’s your first time.
-  **Source:** [r/solotravel “Friendliest country 2025 poll”](https://www.reddit.com/r/solotravel/) – Vietnam beat Philippines by 3 %.
+- Homestays in **Pu Luong** – ([Maps/Reserve](https://maps.app.goo.gl/9uN2bXgKx3x4tT5X6)) or **Ninh Binh rice fields** – ([Maps/Area](https://maps.app.goo.gl/G7f9HhH3tQ6E9r2d6)).
+- **Hoi An basket boat uncles** (Coconut Forest) – tip 200k VND → free coconut and life stories. – ([Maps/Location](https://maps.app.goo.gl/qL8cK14F8cWj5s3T9))
+- **Saigon rooftop bars** – locals buy YOU drinks when they hear it’s your first time. – ([Explore Bars on Maps](https://www.google.com/maps/search/rooftop+bar+district+1+ho+chi+minh+city/))
 
 ### 5. More Variety Than Anywhere Else in Southeast Asia
 
@@ -76,7 +72,6 @@
 - Hoi An = Instagram heaven at night.
 - Da Nang = Miami + Singapore love child.
 - Mekong Delta = floating Amazon jungle.
-  **Reddit quote:** “I did 28 days North to South in Oct 2025 and still feel I missed half the country. Already booked again for 2026.” – [u/vietnam4life](https://www.reddit.com/user/vietnam4life/), [6.8k upvotes recap post](https://www.reddit.com/r/VietnamTourism/).
 
 ## Top 5 Biggest Problems for Foreign Tourists in Vietnam – Reddit 2025 Survival Guide
 
