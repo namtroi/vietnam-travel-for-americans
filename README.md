@@ -12,11 +12,11 @@
 ## How I Built It?
 
 - **Tools**: Grok (structure + details), Gemini (polish)
-- **Sources**: 200+ Reddit threads ([r/VietnamTourism](https://www.reddit.com/r/VietnamTourism/), [r/travel](https://www.reddit.com/r/travel/) 2024-2025), Google local 2025 prices, my own boots-on-ground experience
+- **Sources**: Tripadvisor, Reddit, Google local 2025 prices, and **my own boots-on-ground experience**
 - **Process**:
   1. Grok drafted all itineraries + pros/cons
   2. I removed Sapa, Dalat (overhyped) and anything outdated.
-  3. Cross-checked every price, scam, cruise, hotel on Reddit and Google local (with the aid of AI for sure)
+  3. Cross-checked every price, scam, cruise, hotel on Tripadvisor, Reddit, and Google local (with the aid of AI for sure)
   4. Gemini polished, added 2025 updates
 
 ## Top 5 Reasons to Visit Vietnam in 2025 – Why Reddit Can’t Stop Raving
@@ -302,79 +302,79 @@
 
 - **Why 6 days?** Reddit 2025 consensus: “Hanoi needs 5–7 days to stop feeling rushed.”
 - **Stay (top 2025 picks):**
-  - **[La Siesta Premium Tay Ho](https://www.tripadvisor.com/Hotel_Review-g293924-d15627224-Reviews-La_Siesta_Premium_Tay_Ho-Hanoi.html)** ($90–140) – West Lake quiet luxury.
-  - **[Hanoi Paradise Hotel & Spa](https://www.tripadvisor.com/Hotel_Review-g293924-d1954971-Reviews-Hanoi_Paradise_Hotel_Spa-Hanoi.html)** ($55–85) – Old Quarter central.
-  - Budget: **[Little Hanoi Diamond](https://www.tripadvisor.com/Hotel_Review-g293924-d17527121-Reviews-Little_Hanoi_Diamond-Hanoi.html)** ($25–40).
+  - **[La Siesta Premium Tay Ho](https://www.tripadvisor.com/Hotel_Review-g27501570-d615317-Reviews-La_Siesta_Premium_Hang_Be_Hotel-Hoan_Kiem_Hanoi.html)** ($90–140) – West Lake quiet luxury.
+  - **[Hanoi Paradise Hotel & Spa](https://www.tripadvisor.com/Hotel_Review-g293924-d19835091-Reviews-Hanoi_Paradise_Center_Hotel_Spa-Hanoi.html)** ($55–85) – Old Quarter central.
+  - Budget: **[Little Hanoi Diamond](https://www.tripadvisor.com/Hotel_Review-g293924-d3343780-Reviews-Little_Diamond_Hotel-Hanoi.html)** ($25–40).
 - **Schedule:**
-  - Day 1–2: Classic Old Quarter, **[Train Street](https://www.tripadvisor.com/Attraction_Review-g293924-d32789681-Reviews-Hanoi_Train_Street-Hanoi.html)**, egg coffee, bia hoi.
-  - Day 3: **[Ho Chi Minh Complex](https://www.tripadvisor.com/Attraction_Review-g293924-d311064-Reviews-Ho_Chi_Minh_Mausoleum-Hanoi.html)**, **[Temple of Literature](https://www.tripadvisor.com/Attraction_Review-g293924-d311083-Reviews-Temple_of_Literature_National_University-Hanoi.html)**, **[Hoa Lo Prison](https://www.tripadvisor.com/Attraction_Review-g293924-d311069-Reviews-Hoa_Lo_Prison-Hanoi.html)**.
-  - Day 4: **Day trip to **[Perfume Pagoda](https://www.tripadvisor.com/Attraction_Review-g293924-d311078-Reviews-Perfume_Pagoda-Hanoi.html)\*\* (boat + cable car, $35 pp).
-  - Day 5: **[West Lake walk](https://www.tripadvisor.com/Attraction_Review-g293924-d455016-Reviews-West_Lake-Hanoi.html)**, **[Trúc Bạch island](https://www.tripadvisor.com/Attraction_Review-g293924-d456288-Reviews-Truc_Bach_Lake-Hanoi.html)**, **[Quan Thanh Temple](https://www.tripadvisor.com/Attraction_Review-g293924-d456286-Reviews-Quan_Thanh_Temple-Hanoi.html)**, craft beer crawl.
-  - Day 6: **[Cooking class](https://www.tripadvisor.com/Attraction_Review-g293924-d2435553-Reviews-Hanoi_Cooking_Centre-Hanoi.html)** (Hanoi Cooking Centre) + free afternoon street food hunt.
+  - Day 1–2: Classic Old Quarter, Train Street, egg coffee, bia hoi.
+  - Day 3: Ho Chi Minh Complex, Temple of Literature, Hoa Lo Prison.
+  - Day 4: **Day trip to [Perfume Pagoda](https://www.tripadvisor.com/Attraction_Review-g293924-d311078-Reviews-Perfume_Pagoda-Hanoi.html)** (boat + cable car, $35 pp).
+  - Day 5: **[West Lake walk](https://www.tripadvisor.com/Attraction_Review-g293924-d455016-Reviews-West_Lake-Hanoi.html)**, **[Trúc Bạch island](https://www.tripadvisor.com/Attraction_Review-g293924-d8300188-Reviews-H_Truc_B_ch-Hanoi.html)**, **[Quan Thanh Temple](https://www.tripadvisor.com/Attraction_Review-g293924-d311081-Reviews-Quan_Thanh_Temple-Hanoi.html)**, craft beer crawl.
+  - Day 6: **Cooking class** ([Hanoi Cooking Centre](https://www.tripadvisor.com/Attraction_Review-g293924-d2435553-Reviews-Hanoi_Cooking_Centre-Hanoi.html)) + free afternoon street food hunt.
 
 ### Day 7–9: Halong Bay → Ninh Binh (3D2N combo)
 
 - **Day 7–8:** 2D1N Lan Ha Bay cruise (same as Option 2): **[Orchid Premium](https://www.tripadvisor.com/Attraction_Review-g303944-d19458640-Reviews-Orchid_Premium_Cruises-Hai_Phong.html)** or **[Capella](https://www.tripadvisor.com/Attraction_Review-g303944-d19254163-Reviews-Halong_Capella_Cruise-Hai_Phong.html)** ($180–260 pp).
 - **Day 9:** Cruise ends 11 AM → private transfer to Ninh Binh (2 hrs, $60/car).
-  - Afternoon: **[Trang An boat tour](https://www.tripadvisor.com/Attraction_Review-g303945-d2484803-Reviews-Trang_An_Grottoes-Ninh_Binh_Ninh_Binh_Province.html)** + **[Hang Múa](https://www.tripadvisor.com/Attraction_Review-g303945-d5321519-Reviews-Mua_Caves-Ninh_Binh_Ninh_Binh_Province.html)** sunset.
-  - Stay: **[Emeralda Resort Ninh Binh](https://www.tripadvisor.com/Hotel_Review-g303945-d3241025-Reviews-Emeralda_Resort_Ninh_Binh-Ninh_Binh_Ninh_Binh_Province.html)** ($100–150) – splurge for rice-field villas.
+  - Afternoon: **[Trang An boat tour](https://www.tripadvisor.com/Attraction_Review-g303945-d11556188-Reviews-Trang_An_Tours-Ninh_Binh_Ninh_Binh_Province.html)** + **[Hang Múa](https://www.tripadvisor.com/Hotel_Review-g303945-d8153149-Reviews-Hang_Mua_EcoLodge-Ninh_Binh_Ninh_Binh_Province.html)** sunset.
+  - Stay: **[Emeralda Resort Ninh Binh](https://www.tripadvisor.com/Hotel_Review-g303945-d2243645-Reviews-Emeralda_Resort_Ninh_Binh-Ninh_Binh_Ninh_Binh_Province.html)** ($100–150) – splurge for rice-field villas.
 
 ### Day 10–11: Ninh Binh Deep Dive (2 more nights)
 
-- **Day 10:** **[Tam Coc morning boat](https://www.tripadvisor.com/Attraction_Review-g12866457-d552590-Reviews-Tam_C_c_Bich_D_ng-Ninh_Hai_Hoa_Lu_District_Ninh_Binh_Province.html)** → **[Tuyet Tinh Coc](https://www.tripadvisor.com/Attraction_Review-g303945-d13646473-Reviews-Tuy_t_Tinh_C_c-Ninh_Binh_Ninh_Binh_Province.html)** → scooter to **[Cuc Phuong National Park](https://www.tripadvisor.com/Attraction_Review-g303945-d456291-Reviews-Cuc_Phuong_National_Park-Ninh_Binh_Ninh_Binh_Province.html)** (monkey rescue center).
-- **Day 11:** **[Bai Dinh Pagoda](https://www.tripadvisor.com/Attraction_Review-g12569803-d2267819-Reviews-Bai_Dinh_Pagoda-Gia_Sinh_Ninh_Binh_Province.html)** + **[Phat Diem Cathedral](https://www.tripadvisor.com/Attraction_Review-g303945-d456292-Reviews-Phat_Diem_Cathedral-Ninh_Binh_Ninh_Binh_Province.html)** (stone church masterpiece).
+- **Day 10:** **[Tam Coc morning boat](https://www.tripadvisor.com/Attraction_Review-g12866457-d552590-Reviews-Tam_C_c_Bich_D_ng-Ninh_Hai_Hoa_Lu_District_Ninh_Binh_Province.html)** → **[Tuyet Tinh Coc](https://www.tripadvisor.com/Attraction_Review-g303945-d13646473-Reviews-Tuy_t_Tinh_C_c-Ninh_Binh_Ninh_Binh_Province.html)** → scooter to **[Cuc Phuong National Park](https://www.tripadvisor.com/Attraction_Review-g303945-d8779716-Reviews-Cuc_Phuong_National_Park-Ninh_Binh_Ninh_Binh_Province.html)** (monkey rescue center).
+- **Day 11:** **[Bai Dinh Pagoda](https://www.tripadvisor.com/Attraction_Review-g12569803-d2267819-Reviews-Bai_Dinh_Pagoda-Gia_Sinh_Ninh_Binh_Province.html)** + **[Phat Diem Cathedral](https://www.tripadvisor.com/Attraction_Review-g303945-d3597971-Reviews-Phat_Diem_Cathedral-Ninh_Binh_Ninh_Binh_Province.html)** (stone church masterpiece).
 
 ### Day 12–15: Hue → Da Nang (4 nights Central Vietnam kickoff)
 
 - **Day 12:** Morning flight Hanoi → Hue ($50–80).
   - Stay: **[Vedana Lagoon Resort](https://www.tripadvisor.com/Hotel_Review-g2549590-d1792003-Reviews-Vedana_Lagoon_Resort_Spa-Phu_Loc_Phu_Loc_District_Thua_Thien_Hue_Province.html)** ($110–170) – lagoon bungalows (worth it!).
-  - Afternoon: **[Thien Mu Pagoda](https://www.tripadvisor.com/Attraction_Review-g293926-d456108-Reviews-Thien_Mu_Pagoda-Hue_Thua_Thien_Hue_Province.html)** + **[Perfume River dragon boat](https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-Perfume_River-Hue_Thua_Thien_Hue_Province.html)**.
-- **Day 13:** Full Hue: **[Imperial City](https://www.tripadvisor.com/Attraction_Review-g293926-d317599-Reviews-Hue_Imperial_City_The_Citadel-Hue_Thua_Thien_Hue_Province.html)**, **[Khai Dinh Tomb](https://www.tripadvisor.com/Attraction_Review-g293926-d456105-Reviews-Tomb_of_Khai_Dinh-Hue_Thua_Thien_Hue_Province.html)**, **[Dong Ba Market](https://www.tripadvisor.com/Attraction_Review-g293926-d317600-Reviews-Dong_Ba_Market-Hue_Thua_Thien_Hue_Province.html)**.
-- **Day 14:** Private car Hue → Da Nang via **[Hai Van Pass](https://www.tripadvisor.com/Attraction_Review-g298085-d455407-Reviews-Hai_Van_Pass-Da_Nang.html)** + **[Marble Mountains](https://www.tripadvisor.com/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang.html)** ($70/car).
-  - Stay Da Nang: **[Sala Danang Beach Hotel](https://www.tripadvisor.com/Hotel_Review-g298085-d17075845-Reviews-Sala_Danang_Beach_Hotel-Da_Nang.html)** ($80–130) – My Khe Beach front.
+  - Afternoon: **[Thien Mu Pagoda](https://www.tripadvisor.com/Attraction_Review-g293926-d451126-Reviews-Thien_Mu_Pagoda-Hue_Thua_Thien_Hue_Province.html)** + **[Perfume River dragon boat](https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-Perfume_River-Hue_Thua_Thien_Hue_Province.html)**.
+- **Day 13:** Full Hue: **[Imperial City](https://www.tripadvisor.com/Attraction_Review-g293926-d317599-Reviews-Hue_Imperial_City_The_Citadel-Hue_Thua_Thien_Hue_Province.html)**, **[Khai Dinh Tomb](https://www.tripadvisor.com/Attraction_Review-g2146376-d451116-Reviews-Tomb_of_Khai_Dinh-Thua_Thien_Hue_Province.html)**, **[Dong Ba Market](https://www.tripadvisor.com/Attraction_Review-g293926-d2519037-Reviews-Dong_Ba_Market-Hue_Thua_Thien_Hue_Province.html)**.
+- **Day 14:** Private car Hue → Da Nang via **[Hai Van Pass](https://www.tripadvisor.com/Attraction_Review-g11923533-d455407-Reviews-Hai_Van_Pass-Lang_Co_Phu_Loc_District_Thua_Thien_Hue_Province.html)** + **[Marble Mountains](https://www.tripadvisor.com/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang.html)** ($70/car).
+  - Stay Da Nang: **[Sala Danang Beach Hotel](https://www.tripadvisor.com/Hotel_Review-g298085-d16891462-Reviews-Sala_Danang_Beach_Hotel-Da_Nang.html)** ($80–130) – My Khe Beach front.
 - **Day 15:** **[Ba Na Hills Golden Bridge](https://www.tripadvisor.com/Attraction_Review-g298085-d14991251-Reviews-Golden_Bridge-Da_Nang.html)** full day (cable car + Fantasy Park).
 
 ### Day 16–20: Hoi An – 5 Magical Nights (Reddit demands it)
 
 - **Transfer:** Da Nang → Hoi An (Grab $15, 45 min).
 - **Stay (2025 hottest):**
-  - **[Anantara Hoi An Resort](https://www.tripadvisor.com/Hotel_Review-g298082-d301655-Reviews-Anantara_Hoi_An_Resort-Hoi_An_Quang_Nam_Province.html)** ($150–220) – riverside luxury.
-  - **[Lantana Boutique Hoi An](https://www.tripadvisor.com/Hotel_Review-g298082-d12456244-Reviews-Lantana_Boutique_Hoi_An_Hotel-Hoi_An_Quang_Nam_Province.html)** ($70–110) – pool + free bikes.
+  - **[Anantara Hoi An Resort](https://www.tripadvisor.com/Hotel_Review-g298082-d561925-Reviews-Anantara_Hoi_An_Resort-Hoi_An_Quang_Nam_Province.html)** ($150–220) – riverside luxury.
+  - **[Lantana Boutique Hoi An](https://www.tripadvisor.com/Hotel_Review-g298082-d7810120-Reviews-Lantana_Boutique_Hoi_An_Hotel-Hoi_An_Quang_Nam_Province.html)** ($70–110) – pool + free bikes.
 - **Schedule:**
-  - Day 16: Old Town lanterns + tailor fitting.
-  - Day 17: **[An Bang Beach](https://www.tripadvisor.com/Attraction_Review-g298082-d6612712-Reviews-An_Bang_Beach-Hoi_An_Quang_Nam_Province.html)** all day + sunset basket boats.
-  - Day 18: **[Cooking class](https://www.tripadvisor.com/Attraction_Review-g298082-d1061045-Reviews-Red_Bridge_Cooking_School_Restaurant_Hoi_An_Riverside-Hoi_An_Quang_Nam_Province.html)** + **[Tra Que vegetable village](https://www.tripadvisor.com/Attraction_Review-g298082-d2068091-Reviews-Tra_Que_Vegetable_Village-Hoi_An_Quang_Nam_Province.html)** bike tour.
-  - Day 19: **[My Son Sanctuary](https://www.tripadvisor.com/Attraction_Review-g298082-d456106-Reviews-My_Son_Sanctuary-Hoi_An_Quang_Nam_Province.html)** half-day ($35 pp).
+  - Day 16: **[Old Town lanterns](https://www.tripadvisor.com/Attraction_Review-g298082-d4507121-Reviews-Hoi_An_Ancient_Town-Hoi_An_Quang_Nam_Province.html)** + tailor fitting.
+  - Day 17: **[An Bang Beach](https://www.tripadvisor.com/Attraction_Review-g298082-d6612712-Reviews-An_Bang_Beach-Hoi_An_Quang_Nam_Province.html)** all day + sunset **[basket boats](https://www.tripadvisor.com/Attraction_Review-g298082-d16710754-Reviews-Hoi_An_Basket_Boat-Hoi_An_Quang_Nam_Province.html)**.
+  - Day 18: **Cooking class** + **[Tra Que vegetable village](https://www.tripadvisor.com/Attraction_Review-g298082-d2068091-Reviews-Tra_Que_Vegetable_Village-Hoi_An_Quang_Nam_Province.html)** bike tour.
+  - Day 19: **[My Son Sanctuary](https://www.tripadvisor.com/Attraction_Review-g16806420-d317894-Reviews-My_Son_Sanctuary-Duy_Phu_Duy_Xuyen_District_Quang_Nam_Province.html)** half-day ($35 pp).
   - Day 20: Free day – beach, shopping, or **reach out to locals via Reddit meetup**.
 
 ### Day 21–22: Nha Trang – Beach & Island Hopping
 
 - **Overnight train Hoi An → Nha Trang** (SE1, soft sleeper $45, 10 hrs – “surprisingly comfy” – Reddit).
-- **Stay:** **[Vinpearl Resort Nha Trang](https://www.tripadvisor.com/Hotel_Review-g293928-d301511-Reviews-Vinpearl_Resort_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html)** ($140–200) – private island via cable car.
-- **Day 22:** **[Four-island snorkeling tour](https://www.tripadvisor.com/Attraction_Review-g293928-d5532032-Reviews-Four_Island_Tour-Nha_Trang_Khanh_Hoa_Province.html)** ($30 pp) + **[mud bath](https://www.tripadvisor.com/Attraction_Review-g293928-d455413-Reviews-Thap_Ba_Hot_Springs-Nha_Trang_Khanh_Hoa_Province.html)** at Thap Ba.
+- **Stay:** **[Vinpearl Resort Nha Trang](https://www.tripadvisor.com/Hotel_Review-g293928-d446818-Reviews-Vinpearl_Resort_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html)** ($140–200) – private island via cable car.
+- **Day 22:** **[Four-island snorkeling tour](https://www.tripadvisor.com/AttractionProductReview-g293928-d27139655-Nha_Trang_Island_Hopping_Tour_Snorkeling_and_Floating_Party-Nha_Trang_Khanh_Hoa_Pr.html)** ($30 pp) + **mud bath** at **[Thap Ba](https://www.tripadvisor.com/Attraction_Review-g293928-d1846887-Reviews-Thap_Ba_Mud_Bath-Nha_Trang_Khanh_Hoa_Province.html)**.
 
 ### Day 23–27: Ho Chi Minh City – 5 Nights of Saigon Energy
 
 - **Flight Nha Trang → SGN** ($40–70).
 - **Stay:**
-  - **[The Reverie Saigon](https://www.tripadvisor.com/Hotel_Review-g293925-d8664539-Reviews-The_Reverie_Saigon-Ho_Chi_Minh_City.html)** ($200–350) – most insane hotel in VN.
-  - **[Liberty Central Saigon Riverside](https://www.tripadvisor.com/Hotel_Review-g293925-d3896895-Reviews-Liberty_Central_Saigon_Riverside_Hotel-Ho_Chi_Minh_City.html)** ($80–120) – District 1 rooftop.
+  - **[The Reverie Saigon](https://www.tripadvisor.com/Hotel_Review-g293925-d7319538-Reviews-The_Reverie_Saigon-Ho_Chi_Minh_City.html)** ($200–350) – most insane hotel in VN.
+  - **[Liberty Central Saigon Riverside](https://www.tripadvisor.com/Hotel_Review-g293925-d4474103-Reviews-Liberty_Central_Saigon_Riverside_Hotel-Ho_Chi_Minh_City.html)** ($80–120) – District 1 rooftop.
 - **Must-do:**
-  - Day 23: **[War Remnants Museum](https://www.tripadvisor.com/Attraction_Review-g293925-d447756-Reviews-War_Remnants_Museum-Ho_Chi_Minh_City.html)**, **[Reunification Palace](https://www.tripadvisor.com/Attraction_Review-g293925-d447757-Reviews-Reunification_Palace-Ho_Chi_Minh_City.html)**, **[Notre Dame](https://www.tripadvisor.com/Attraction_Review-g293925-d447753-Reviews-Notre_Dame_Cathedral-Ho_Chi_Minh_City.html)**.
-  - Day 24: **[Cu Chi Tunnels](https://www.tripadvisor.com/Attraction_Review-g293925-d447758-Reviews-Cu_Chi_Tunnels-Ho_Chi_Minh_City.html)** half-day + city walking tour.
-  - Day 25: **[District 4 street food (Vinh Khanh St.)](https://www.tripadvisor.com/Attraction_Review-g293925-d7249336-Reviews-Vinh_Khanh_Street-Ho_Chi_Minh_City.html)**.
-  - Day 26: **[Bitexco Tower sunset](https://www.tripadvisor.com/Attraction_Review-g293925-d3352743-Reviews-Bitexco_Financial_Tower-Saigon_Skydeck-Ho_Chi_Minh_City.html)**, **[Nguyen Hue walking street](https://www.tripadvisor.com/Attraction_Review-g293925-d455419-Reviews-Nguyen_Hue_Walking_Street-Ho_Chi_Minh_City.html)**.
-  - Day 27: Free day or **[Can Gio Mangrove day trip](https://www.tripadvisor.com/Attraction_Review-g293925-d455415-Reviews-Can_Gio_Mangrove_Forest-Ho_Chi_Minh_City.html)**.
+  - Day 23: **[War Remnants Museum](https://www.tripadvisor.com/Attraction_Review-g293925-d311103-Reviews-War_Remnants_Museum-Ho_Chi_Minh_City.html)**, **[Reunification Palace](https://www.tripadvisor.com/Attraction_Review-g293925-d317890-Reviews-The_Independence_Palace-Ho_Chi_Minh_City.html)**, **[Notre Dame](https://www.tripadvisor.com/Attraction_Review-g293925-d317896-Reviews-Saigon_Notre_Dame_Cathedral-Ho_Chi_Minh_City.html)**.
+  - Day 24: **[Cu Chi Tunnels](https://www.tripadvisor.com/Attraction_Review-g293925-d2005826-Reviews-Cu_Chi_Tunnels-Ho_Chi_Minh_City.html)** half-day + city walking tour.
+  - Day 25: **District 4 street food tour**.
+  - Day 26: **[Bitexco Tower sunset](https://www.tripadvisor.com/Attraction_Review-g293925-d2037764-Reviews-Bitexco_Financial_Tower-Ho_Chi_Minh_City.html)**, **[Nguyen Hue walking street](https://www.tripadvisor.com/Attraction_Review-g293925-d8290115-Reviews-Nguyen_Hue_Street-Ho_Chi_Minh_City.html)**.
+  - Day 27: Free day or **[Can Gio Mangrove day trip](https://www.tripadvisor.com/Attraction_Review-g293925-d1165087-Reviews-Can_Gio_Mangrove_Biosphere_Reserve-Ho_Chi_Minh_City.html)**.
 
 ### Day 28–30: Mekong Delta → Phú Quốc Finale (3 nights island bliss)
 
 - **Day 28:** Early bus SGN → Can Tho ($12, 3.5 hrs).
-  - **[Cai Rang Floating Market sunrise tour](https://www.tripadvisor.com/Attraction_Review-g303939-d456103-Reviews-Cai_Rang_Floating_Market-Can_Tho.html)** + homestay.
-- **Day 29:** Morning in Ben Tre (coconut candy, bike ride) → fly Can Tho → Phú Quốc ($50–90).
+  - **[Cai Rang Floating Market sunrise tour](https://www.tripadvisor.com/Attraction_Review-g303942-d455150-Reviews-Cai_Rang_Floating_Market-Can_Tho_Mekong_Delta.html)** + homestay.
+- **Day 29:** Morning in Ben Tre (**[coconut candy](https://www.tripadvisor.com/AttractionProductReview-g737085-d26448674-Ben_Tre_Coconut_Candies_Handmade_Workshop_3HRS-Ben_Tre_Ben_Tre_Province_Mekong_Del.html)**, bike ride) → fly Can Tho → Phú Quốc ($50–90).
 - **Stay Phú Quốc (Reddit 2025 #1):**
-  - **[Premier Village Phu Quoc](https://www.tripadvisor.com/Hotel_Review-g1184679-d10248103-Reviews-Premier_Village_Phu_Quoc_Resort_Managed_by_Accor-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html)** ($220–350) – two private pools per villa.
-  - **[Lahana Resort](https://www.tripadvisor.com/Hotel_Review-g469418-d16283215-Reviews-Lahana_Resort_Phu_Quoc-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html)** ($100–160) – boho beachfront.
-- **Day 30:** **[Sao Beach](https://www.tripadvisor.com/Attraction_Review-g469418-d5569442-Reviews-Sao_Beach-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html)**, **snorkeling**, **[sunset at Rory’s Beach Bar](https://www.tripadvisor.com/Restaurant_Review-g469418-d12725560-Reviews-Rory_s_Beach_Bar-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html)** → late flight home.
+  - **[Premier Village Phu Quoc](https://www.tripadvisor.com/Hotel_Review-g12520037-d13376509-Reviews-Premier_Village_Phu_Quoc_Resort_Managed_By_Accor-An_Thoi_Phu_Quoc_Island_Kien_Giang.html)** ($220–350) – two private pools per villa.
+  - **[Lahana Resort](https://www.tripadvisor.com/Hotel_Review-g1184679-d12729866-Reviews-Lahana_Resort_Phu_Quoc_Spa-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html)** ($100–160) – boho beachfront.
+- **Day 30:** **[Sao Beach](https://www.tripadvisor.com/Attraction_Review-g12520037-d1750341-Reviews-Bai_T_m_Sao-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html)**, **snorkeling**, **sunset at [Rory’s Beach Bar](https://www.tripadvisor.com/Restaurant_Review-g5556278-d2079602-Reviews-Rory_s_Beach_Bar-Ham_Ninh_Phu_Quoc_Island_Kien_Giang_Province.html)** → late flight home.
 
 ### Budget Breakdown (per person, Nov 2025)
 
