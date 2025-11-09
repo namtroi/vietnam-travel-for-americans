@@ -307,14 +307,14 @@
   - Budget: **[Little Hanoi Diamond](https://www.tripadvisor.com/Hotel_Review-g293924-d17527121-Reviews-Little_Hanoi_Diamond-Hanoi.html)** ($25–40).
 - **Schedule:**
   - Day 1–2: Classic Old Quarter, **[Train Street](https://www.tripadvisor.com/Attraction_Review-g293924-d32789681-Reviews-Hanoi_Train_Street-Hanoi.html)**, egg coffee, bia hoi.
-  - Day 3: **[Ho Chi Minh Complex](https://www.tripadvisor.com/Attraction_Review-g293924-d311062-Reviews-Ho_Chi_Minh_Mausoleum-Hanoi.html)**, **[Temple of Literature](https://www.tripadvisor.com/Attraction_Review-g293924-d311083-Reviews-Temple_of_Literature_National_University-Hanoi.html)**, **[Hoa Lo Prison](https://www.tripadvisor.com/Attraction_Review-g293924-d311069-Reviews-Hoa_Lo_Prison-Hanoi.html)**.
-  - Day 4: **Day trip to **[Perfume Pagoda](https://www.tripadvisor.com/Attraction_Review-g293924-d455009-Reviews-Perfume_Pagoda-Hanoi.html)\*\* (boat + cable car, $35 pp).
+  - Day 3: **[Ho Chi Minh Complex](https://www.tripadvisor.com/Attraction_Review-g293924-d311064-Reviews-Ho_Chi_Minh_Mausoleum-Hanoi.html)**, **[Temple of Literature](https://www.tripadvisor.com/Attraction_Review-g293924-d311083-Reviews-Temple_of_Literature_National_University-Hanoi.html)**, **[Hoa Lo Prison](https://www.tripadvisor.com/Attraction_Review-g293924-d311069-Reviews-Hoa_Lo_Prison-Hanoi.html)**.
+  - Day 4: **Day trip to **[Perfume Pagoda](https://www.tripadvisor.com/Attraction_Review-g293924-d311078-Reviews-Perfume_Pagoda-Hanoi.html)\*\* (boat + cable car, $35 pp).
   - Day 5: **[West Lake walk](https://www.tripadvisor.com/Attraction_Review-g293924-d455016-Reviews-West_Lake-Hanoi.html)**, **[Trúc Bạch island](https://www.tripadvisor.com/Attraction_Review-g293924-d456288-Reviews-Truc_Bach_Lake-Hanoi.html)**, **[Quan Thanh Temple](https://www.tripadvisor.com/Attraction_Review-g293924-d456286-Reviews-Quan_Thanh_Temple-Hanoi.html)**, craft beer crawl.
-  - Day 6: **[Cooking class](https://www.tripadvisor.com/Attraction_Review-g293924-d1516014-Reviews-Hanoi_Cooking_Centre-Hanoi.html)** (Hanoi Cooking Centre) + free afternoon street food hunt.
+  - Day 6: **[Cooking class](https://www.tripadvisor.com/Attraction_Review-g293924-d2435553-Reviews-Hanoi_Cooking_Centre-Hanoi.html)** (Hanoi Cooking Centre) + free afternoon street food hunt.
 
 ### Day 7–9: Halong Bay → Ninh Binh (3D2N combo)
 
-- **Day 7–8:** 2D1N Lan Ha Bay cruise (same as Option 2): **[Orchid Premium](https://www.tripadvisor.com/Attraction_Review-g303944-d17584275-Reviews-Orchid_Premium_Cruise-Hai_Phong.html)** or **[Capella](https://www.tripadvisor.com/Attraction_Review-g303944-d19254163-Reviews-Halong_Capella_Cruise-Hai_Phong.html)** ($180–260 pp).
+- **Day 7–8:** 2D1N Lan Ha Bay cruise (same as Option 2): **[Orchid Premium](https://www.tripadvisor.com/Attraction_Review-g303944-d19458640-Reviews-Orchid_Premium_Cruises-Hai_Phong.html)** or **[Capella](https://www.tripadvisor.com/Attraction_Review-g303944-d19254163-Reviews-Halong_Capella_Cruise-Hai_Phong.html)** ($180–260 pp).
 - **Day 9:** Cruise ends 11 AM → private transfer to Ninh Binh (2 hrs, $60/car).
   - Afternoon: **[Trang An boat tour](https://www.tripadvisor.com/Attraction_Review-g303945-d2484803-Reviews-Trang_An_Grottoes-Ninh_Binh_Ninh_Binh_Province.html)** + **[Hang Múa](https://www.tripadvisor.com/Attraction_Review-g303945-d5321519-Reviews-Mua_Caves-Ninh_Binh_Ninh_Binh_Province.html)** sunset.
   - Stay: **[Emeralda Resort Ninh Binh](https://www.tripadvisor.com/Hotel_Review-g303945-d3241025-Reviews-Emeralda_Resort_Ninh_Binh-Ninh_Binh_Ninh_Binh_Province.html)** ($100–150) – splurge for rice-field villas.
@@ -327,10 +327,10 @@
 ### Day 12–15: Hue → Da Nang (4 nights Central Vietnam kickoff)
 
 - **Day 12:** Morning flight Hanoi → Hue ($50–80).
-  - Stay: **[Vedana Lagoon Resort](https://www.tripadvisor.com/Hotel_Review-g11923533-d1016824-Reviews-Vedana_Lagoon_Resort_Spa-Lang_Co_Phu_Loc_District_Thua_Thien_Hue_Province.html)** ($110–170) – lagoon bungalows (worth it!).
+  - Stay: **[Vedana Lagoon Resort](https://www.tripadvisor.com/Hotel_Review-g2549590-d1792003-Reviews-Vedana_Lagoon_Resort_Spa-Phu_Loc_Phu_Loc_District_Thua_Thien_Hue_Province.html)** ($110–170) – lagoon bungalows (worth it!).
   - Afternoon: **[Thien Mu Pagoda](https://www.tripadvisor.com/Attraction_Review-g293926-d456108-Reviews-Thien_Mu_Pagoda-Hue_Thua_Thien_Hue_Province.html)** + **[Perfume River dragon boat](https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-Perfume_River-Hue_Thua_Thien_Hue_Province.html)**.
-- **Day 13:** Full Hue: **[Imperial City](https://www.tripadvisor.com/Attraction_Review-g293926-d317599-Reviews-Hue_Imperial_City_The_Citadel-Hue_Thua_Thien_Hue_Province.html)**, **[Khai Dinh Tomb](https://www.tripadvisor.com/Attraction_Review-g2146376-d451116-Reviews-Tomb_of_Khai_Dinh-Thua_Thien_Hue_Province.html)**, **[Dong Ba Market](https://www.tripadvisor.com/Attraction_Review-g293926-d317600-Reviews-Dong_Ba_Market-Hue_Thua_Thien_Hue_Province.html)**.
-- **Day 14:** Private car Hue → Da Nang via **[Hai Van Pass](https://www.tripadvisor.com/Attraction_Review-g11923533-d455407-Reviews-Hai_Van_Pass-Lang_Co_Phu_Loc_District_Thua_Thien_Hue_Province.html)** + **[Marble Mountains](https://www.tripadvisor.com/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang.html)** ($70/car).
+- **Day 13:** Full Hue: **[Imperial City](https://www.tripadvisor.com/Attraction_Review-g293926-d317599-Reviews-Hue_Imperial_City_The_Citadel-Hue_Thua_Thien_Hue_Province.html)**, **[Khai Dinh Tomb](https://www.tripadvisor.com/Attraction_Review-g293926-d456105-Reviews-Tomb_of_Khai_Dinh-Hue_Thua_Thien_Hue_Province.html)**, **[Dong Ba Market](https://www.tripadvisor.com/Attraction_Review-g293926-d317600-Reviews-Dong_Ba_Market-Hue_Thua_Thien_Hue_Province.html)**.
+- **Day 14:** Private car Hue → Da Nang via **[Hai Van Pass](https://www.tripadvisor.com/Attraction_Review-g298085-d455407-Reviews-Hai_Van_Pass-Da_Nang.html)** + **[Marble Mountains](https://www.tripadvisor.com/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang.html)** ($70/car).
   - Stay Da Nang: **[Sala Danang Beach Hotel](https://www.tripadvisor.com/Hotel_Review-g298085-d17075845-Reviews-Sala_Danang_Beach_Hotel-Da_Nang.html)** ($80–130) – My Khe Beach front.
 - **Day 15:** **[Ba Na Hills Golden Bridge](https://www.tripadvisor.com/Attraction_Review-g298085-d14991251-Reviews-Golden_Bridge-Da_Nang.html)** full day (cable car + Fantasy Park).
 
